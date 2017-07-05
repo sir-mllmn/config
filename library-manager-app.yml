@@ -1,4 +1,4 @@
 application:
   view-name: Library Manager Application
   search-service-url: http://search-statistic-app/statistic
-  library-name: Pet-project library
+  library-name: Pet-project library -1
